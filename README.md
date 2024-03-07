@@ -1,3 +1,9 @@
+Before you start working on your mid project, watch the videos below: 
+
+Learning MockAPI: https://drive.google.com/file/d/1J4sHjv4W5GKrbGizdqWOJFTR5X4Xpeut/view?usp=drivesdk
+Using Axios to retrieve data from MockAPI: https://drive.google.com/file/d/1ic7h-O37SE8gXmvnT9CqTe2NAoqjD0wj/view?usp=drivesdk
+Create - Update - Delete using Axios VueJs and MockAPI as back-end: https://drive.google.com/file/d/1JGseKTH99GwCOggm0Dh4HJioq5qq-vLt/view?usp=drivesdk
+MID Project Instructions: https://drive.google.com/file/d/1zjivHPUXjBQ4q7oVgbf0MfVpkmT3QPhI/view?usp=drivesdk
 In this mid project you are required to realize your proposed application in term front-end design. Below are the requirements that you need to complete for your mid term project:
 
 Basic requirements:
